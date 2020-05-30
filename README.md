@@ -3,6 +3,8 @@
 
 This a zapier app that has FTP action for upload a file.
 
+For invites send email to [bharat2147@yahoo.com](mailto:bharat2147@yahoo.com)
+
 These are what you normally do next:
 
 ```bash
